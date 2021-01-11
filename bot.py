@@ -1,0 +1,1 @@
+print("trading 1 katrillion dollars worth of stocks.")
